@@ -1,6 +1,6 @@
 "use client";
 import Products from '../components/Products';
-import Cart from '../components/Cart';
+import Cart from '../components/cart';
 import CartHydration from '../components/CartHydration';
 
 
